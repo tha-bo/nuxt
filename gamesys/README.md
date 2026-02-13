@@ -224,4 +224,3 @@ See `DATABASE.md` for detailed database documentation, including:
 - Query methods
 - Switching to PostgreSQL/MySQL
 - Advanced usage examples
-- remove sub repository
